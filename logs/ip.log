@@ -1,0 +1,138 @@
+2017-10-26 10:21:12  INFO [Properties.java:35] mm.server.work.Properties.loadProperties() - Prop is loaded : 
+2017-10-26 10:21:51  INFO [Properties.java:35] mm.server.work.Properties.loadProperties() - Prop is loaded : 
+2017-10-26 10:22:01  INFO [Properties.java:35] mm.server.work.Properties.loadProperties() - Prop is loaded : 
+2017-10-26 10:22:01  INFO [HttpServer.java:75] mm.server.engine.HttpServer.main() - Http Server listening on 8866 ...
+2017-10-26 10:22:01 DEBUG [InternalLoggerFactory.java:59] netty.util.internal.logging.InternalLoggerFactory.newDefaultFactory() - Using Log4J as the default logging framework
+2017-10-26 10:22:02 DEBUG [MultithreadEventLoopGroup.java:43] io.netty.channel.MultithreadEventLoopGroup.<clinit>() - -Dio.netty.eventLoopThreads: 8
+2017-10-26 10:22:02 DEBUG [PlatformDependent0.java:87] io.netty.util.internal.PlatformDependent0.<clinit>() - java.nio.Buffer.address: available
+2017-10-26 10:22:02 DEBUG [PlatformDependent0.java:123] io.netty.util.internal.PlatformDependent0.<clinit>() - sun.misc.Unsafe.theUnsafe: available
+2017-10-26 10:22:02 DEBUG [PlatformDependent0.java:147] io.netty.util.internal.PlatformDependent0.<clinit>() - sun.misc.Unsafe.copyMemory: available
+2017-10-26 10:22:02 DEBUG [PlatformDependent0.java:194] io.netty.util.internal.PlatformDependent0.<clinit>() - direct buffer constructor: available
+2017-10-26 10:22:02 DEBUG [PlatformDependent0.java:243] io.netty.util.internal.PlatformDependent0.<clinit>() - java.nio.Bits.unaligned: available, true
+2017-10-26 10:22:02 DEBUG [PlatformDependent0.java:255] io.netty.util.internal.PlatformDependent0.<clinit>() - java.nio.DirectByteBuffer.<init>(long, int): available
+2017-10-26 10:22:02 DEBUG [Cleaner0.java:67] io.netty.util.internal.Cleaner0.<clinit>() - java.nio.ByteBuffer.cleaner(): available
+2017-10-26 10:22:02 DEBUG [PlatformDependent.java:1079] io.netty.util.internal.PlatformDependent.javaVersion0() - Java version: 8
+2017-10-26 10:22:02 DEBUG [PlatformDependent.java:1116] io.netty.util.internal.PlatformDependent.explicitNoUnsafe0() - -Dio.netty.noUnsafe: false
+2017-10-26 10:22:02 DEBUG [PlatformDependent.java:1151] io.netty.util.internal.PlatformDependent.hasUnsafe0() - sun.misc.Unsafe: available
+2017-10-26 10:22:02 DEBUG [PlatformDependent.java:1226] io.netty.util.internal.PlatformDependent.hasJavassist0() - -Dio.netty.noJavassist: false
+2017-10-26 10:22:02 DEBUG [PlatformDependent.java:1239] io.netty.util.internal.PlatformDependent.hasJavassist0() - Javassist: unavailable
+2017-10-26 10:22:02 DEBUG [PlatformDependent.java:1240] io.netty.util.internal.PlatformDependent.hasJavassist0() - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2017-10-26 10:22:02 DEBUG [PlatformDependent.java:1258] io.netty.util.internal.PlatformDependent.tmpdir0() - -Dio.netty.tmpdir: /var/folders/5x/xll9tb792tb2_163vwjpsl2m0000gn/T (java.io.tmpdir)
+2017-10-26 10:22:02 DEBUG [PlatformDependent.java:1337] io.netty.util.internal.PlatformDependent.bitMode0() - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-10-26 10:22:02 DEBUG [PlatformDependent.java:118] io.netty.util.internal.PlatformDependent.<clinit>() - -Dio.netty.noPreferDirect: false
+2017-10-26 10:22:02 DEBUG [PlatformDependent.java:154] io.netty.util.internal.PlatformDependent.<clinit>() - io.netty.maxDirectMemory: 1908932608 bytes
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:111] io.netty.channel.nio.NioEventLoop.<clinit>() - -Dio.netty.noKeySetOptimization: false
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:112] io.netty.channel.nio.NioEventLoop.<clinit>() - -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-10-26 10:22:02 DEBUG [PlatformDependent.java:870] io.netty.util.internal.PlatformDependent.<clinit>() - org.jctools-core.MpscChunkedArrayQueue: available
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@c46bcd4
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@3d921e20
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@fad74ee
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@37d31475
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@436e852b
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@1d8d30f7
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@9a7504c
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@587d1d39
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@cb51256
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@5bfbf16f
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@12cdcf4
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@5f3a4b84
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@670b40af
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@44c8afef
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@46daef40
+2017-10-26 10:22:02 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@13c27452
+2017-10-26 10:22:02 DEBUG [DefaultChannelId.java:86] io.netty.channel.DefaultChannelId.<clinit>() - -Dio.netty.processId: 85849 (auto-detected)
+2017-10-26 10:22:02 DEBUG [NetUtil.java:135] io.netty.util.NetUtil.<clinit>() - -Djava.net.preferIPv4Stack: false
+2017-10-26 10:22:02 DEBUG [NetUtil.java:136] io.netty.util.NetUtil.<clinit>() - -Djava.net.preferIPv6Addresses: false
+2017-10-26 10:22:02 DEBUG [NetUtil.java:217] io.netty.util.NetUtil.<clinit>() - Loopback interface: lo0 (lo0, 0:0:0:0:0:0:0:1)
+2017-10-26 10:22:02 DEBUG [NetUtil.java:268] io.netty.util.NetUtil.run() - /proc/sys/net/core/somaxconn: 128 (non-existent)
+2017-10-26 10:22:02 DEBUG [DefaultChannelId.java:106] io.netty.channel.DefaultChannelId.<clinit>() - -Dio.netty.machineId: 6c:40:08:ff:fe:a6:5b:9e (auto-detected)
+2017-10-26 10:22:02 DEBUG [ThreadLocalRandom.java:226] io.netty.util.internal.ThreadLocalRandom.newSeed() - -Dio.netty.initialSeedUniquifier: 0x188f74b2e3134343
+2017-10-26 10:22:02 DEBUG [ResourceLeakDetector.java:106] io.netty.util.ResourceLeakDetector.<clinit>() - -Dio.netty.leakDetection.level: simple
+2017-10-26 10:22:02 DEBUG [ResourceLeakDetector.java:107] io.netty.util.ResourceLeakDetector.<clinit>() - -Dio.netty.leakDetection.maxRecords: 4
+2017-10-26 10:22:02 DEBUG [PooledByteBufAllocator.java:107] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.numHeapArenas: 8
+2017-10-26 10:22:02 DEBUG [PooledByteBufAllocator.java:108] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.numDirectArenas: 8
+2017-10-26 10:22:02 DEBUG [PooledByteBufAllocator.java:110] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.pageSize: 8192
+2017-10-26 10:22:02 DEBUG [PooledByteBufAllocator.java:115] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.maxOrder: 11
+2017-10-26 10:22:02 DEBUG [PooledByteBufAllocator.java:119] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.chunkSize: 16777216
+2017-10-26 10:22:02 DEBUG [PooledByteBufAllocator.java:120] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.tinyCacheSize: 512
+2017-10-26 10:22:02 DEBUG [PooledByteBufAllocator.java:121] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.smallCacheSize: 256
+2017-10-26 10:22:02 DEBUG [PooledByteBufAllocator.java:122] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.normalCacheSize: 64
+2017-10-26 10:22:02 DEBUG [PooledByteBufAllocator.java:123] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-10-26 10:22:02 DEBUG [PooledByteBufAllocator.java:124] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-10-26 10:22:02 DEBUG [ByteBufUtil.java:80] io.netty.buffer.ByteBufUtil.<clinit>() - -Dio.netty.allocator.type: pooled
+2017-10-26 10:22:02 DEBUG [ByteBufUtil.java:89] io.netty.buffer.ByteBufUtil.<clinit>() - -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-10-26 10:22:02 DEBUG [ByteBufUtil.java:92] io.netty.buffer.ByteBufUtil.<clinit>() - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-10-26 10:22:16 DEBUG [AbstractByteBuf.java:52] io.netty.buffer.AbstractByteBuf.<clinit>() - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-10-26 10:22:16 DEBUG [ResourceLeakDetectorFactory.java:140] io.netty.util.ResourceLeakDetectorFactory.newResourceLeakDetector() - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@691b3807
+2017-10-26 10:22:16 DEBUG [Recycler.java:96] io.netty.util.Recycler.<clinit>() - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-10-26 10:22:16 DEBUG [Recycler.java:97] io.netty.util.Recycler.<clinit>() - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-10-26 10:22:16 DEBUG [Recycler.java:98] io.netty.util.Recycler.<clinit>() - -Dio.netty.recycler.linkCapacity: 16
+2017-10-26 10:22:16 DEBUG [Recycler.java:99] io.netty.util.Recycler.<clinit>() - -Dio.netty.recycler.ratio: 8
+2017-10-26 10:32:57  INFO [Properties.java:35] mm.server.work.Properties.loadProperties() - Prop is loaded : 
+2017-10-26 10:32:57  INFO [HttpServer.java:75] mm.server.engine.HttpServer.main() - Http Server listening on 8866 ...
+2017-10-26 10:32:57 DEBUG [InternalLoggerFactory.java:59] netty.util.internal.logging.InternalLoggerFactory.newDefaultFactory() - Using Log4J as the default logging framework
+2017-10-26 10:32:57 DEBUG [MultithreadEventLoopGroup.java:43] io.netty.channel.MultithreadEventLoopGroup.<clinit>() - -Dio.netty.eventLoopThreads: 8
+2017-10-26 10:32:57 DEBUG [PlatformDependent0.java:87] io.netty.util.internal.PlatformDependent0.<clinit>() - java.nio.Buffer.address: available
+2017-10-26 10:32:57 DEBUG [PlatformDependent0.java:123] io.netty.util.internal.PlatformDependent0.<clinit>() - sun.misc.Unsafe.theUnsafe: available
+2017-10-26 10:32:57 DEBUG [PlatformDependent0.java:147] io.netty.util.internal.PlatformDependent0.<clinit>() - sun.misc.Unsafe.copyMemory: available
+2017-10-26 10:32:57 DEBUG [PlatformDependent0.java:194] io.netty.util.internal.PlatformDependent0.<clinit>() - direct buffer constructor: available
+2017-10-26 10:32:57 DEBUG [PlatformDependent0.java:243] io.netty.util.internal.PlatformDependent0.<clinit>() - java.nio.Bits.unaligned: available, true
+2017-10-26 10:32:57 DEBUG [PlatformDependent0.java:255] io.netty.util.internal.PlatformDependent0.<clinit>() - java.nio.DirectByteBuffer.<init>(long, int): available
+2017-10-26 10:32:57 DEBUG [Cleaner0.java:67] io.netty.util.internal.Cleaner0.<clinit>() - java.nio.ByteBuffer.cleaner(): available
+2017-10-26 10:32:57 DEBUG [PlatformDependent.java:1079] io.netty.util.internal.PlatformDependent.javaVersion0() - Java version: 8
+2017-10-26 10:32:57 DEBUG [PlatformDependent.java:1116] io.netty.util.internal.PlatformDependent.explicitNoUnsafe0() - -Dio.netty.noUnsafe: false
+2017-10-26 10:32:57 DEBUG [PlatformDependent.java:1151] io.netty.util.internal.PlatformDependent.hasUnsafe0() - sun.misc.Unsafe: available
+2017-10-26 10:32:57 DEBUG [PlatformDependent.java:1226] io.netty.util.internal.PlatformDependent.hasJavassist0() - -Dio.netty.noJavassist: false
+2017-10-26 10:32:57 DEBUG [PlatformDependent.java:1239] io.netty.util.internal.PlatformDependent.hasJavassist0() - Javassist: unavailable
+2017-10-26 10:32:57 DEBUG [PlatformDependent.java:1240] io.netty.util.internal.PlatformDependent.hasJavassist0() - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2017-10-26 10:32:57 DEBUG [PlatformDependent.java:1258] io.netty.util.internal.PlatformDependent.tmpdir0() - -Dio.netty.tmpdir: /var/folders/5x/xll9tb792tb2_163vwjpsl2m0000gn/T (java.io.tmpdir)
+2017-10-26 10:32:57 DEBUG [PlatformDependent.java:1337] io.netty.util.internal.PlatformDependent.bitMode0() - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-10-26 10:32:57 DEBUG [PlatformDependent.java:118] io.netty.util.internal.PlatformDependent.<clinit>() - -Dio.netty.noPreferDirect: false
+2017-10-26 10:32:57 DEBUG [PlatformDependent.java:154] io.netty.util.internal.PlatformDependent.<clinit>() - io.netty.maxDirectMemory: 1908932608 bytes
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:111] io.netty.channel.nio.NioEventLoop.<clinit>() - -Dio.netty.noKeySetOptimization: false
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:112] io.netty.channel.nio.NioEventLoop.<clinit>() - -Dio.netty.selectorAutoRebuildThreshold: 512
+2017-10-26 10:32:57 DEBUG [PlatformDependent.java:870] io.netty.util.internal.PlatformDependent.<clinit>() - org.jctools-core.MpscChunkedArrayQueue: available
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@c46bcd4
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@3d921e20
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@fad74ee
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@37d31475
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@436e852b
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@1d8d30f7
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@9a7504c
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@587d1d39
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@cb51256
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@5bfbf16f
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@12cdcf4
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@5f3a4b84
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@670b40af
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@44c8afef
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@46daef40
+2017-10-26 10:32:57 DEBUG [NioEventLoop.java:230] io.netty.channel.nio.NioEventLoop.openSelector() - instrumented a special java.util.Set into: sun.nio.ch.KQueueSelectorImpl@13c27452
+2017-10-26 10:32:57 DEBUG [DefaultChannelId.java:86] io.netty.channel.DefaultChannelId.<clinit>() - -Dio.netty.processId: 85942 (auto-detected)
+2017-10-26 10:32:57 DEBUG [NetUtil.java:135] io.netty.util.NetUtil.<clinit>() - -Djava.net.preferIPv4Stack: false
+2017-10-26 10:32:57 DEBUG [NetUtil.java:136] io.netty.util.NetUtil.<clinit>() - -Djava.net.preferIPv6Addresses: false
+2017-10-26 10:32:57 DEBUG [NetUtil.java:217] io.netty.util.NetUtil.<clinit>() - Loopback interface: lo0 (lo0, 0:0:0:0:0:0:0:1)
+2017-10-26 10:32:57 DEBUG [NetUtil.java:268] io.netty.util.NetUtil.run() - /proc/sys/net/core/somaxconn: 128 (non-existent)
+2017-10-26 10:32:57 DEBUG [DefaultChannelId.java:106] io.netty.channel.DefaultChannelId.<clinit>() - -Dio.netty.machineId: 6c:40:08:ff:fe:a6:5b:9e (auto-detected)
+2017-10-26 10:32:57 DEBUG [ThreadLocalRandom.java:226] io.netty.util.internal.ThreadLocalRandom.newSeed() - -Dio.netty.initialSeedUniquifier: 0x178aeaf574f7e820
+2017-10-26 10:32:57 DEBUG [ResourceLeakDetector.java:106] io.netty.util.ResourceLeakDetector.<clinit>() - -Dio.netty.leakDetection.level: simple
+2017-10-26 10:32:57 DEBUG [ResourceLeakDetector.java:107] io.netty.util.ResourceLeakDetector.<clinit>() - -Dio.netty.leakDetection.maxRecords: 4
+2017-10-26 10:32:57 DEBUG [PooledByteBufAllocator.java:107] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.numHeapArenas: 8
+2017-10-26 10:32:57 DEBUG [PooledByteBufAllocator.java:108] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.numDirectArenas: 8
+2017-10-26 10:32:57 DEBUG [PooledByteBufAllocator.java:110] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.pageSize: 8192
+2017-10-26 10:32:57 DEBUG [PooledByteBufAllocator.java:115] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.maxOrder: 11
+2017-10-26 10:32:57 DEBUG [PooledByteBufAllocator.java:119] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.chunkSize: 16777216
+2017-10-26 10:32:57 DEBUG [PooledByteBufAllocator.java:120] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.tinyCacheSize: 512
+2017-10-26 10:32:57 DEBUG [PooledByteBufAllocator.java:121] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.smallCacheSize: 256
+2017-10-26 10:32:57 DEBUG [PooledByteBufAllocator.java:122] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.normalCacheSize: 64
+2017-10-26 10:32:57 DEBUG [PooledByteBufAllocator.java:123] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2017-10-26 10:32:57 DEBUG [PooledByteBufAllocator.java:124] io.netty.buffer.PooledByteBufAllocator.<clinit>() - -Dio.netty.allocator.cacheTrimInterval: 8192
+2017-10-26 10:32:57 DEBUG [ByteBufUtil.java:80] io.netty.buffer.ByteBufUtil.<clinit>() - -Dio.netty.allocator.type: pooled
+2017-10-26 10:32:57 DEBUG [ByteBufUtil.java:89] io.netty.buffer.ByteBufUtil.<clinit>() - -Dio.netty.threadLocalDirectBufferSize: 65536
+2017-10-26 10:32:57 DEBUG [ByteBufUtil.java:92] io.netty.buffer.ByteBufUtil.<clinit>() - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2017-10-26 10:33:25 DEBUG [AbstractByteBuf.java:52] io.netty.buffer.AbstractByteBuf.<clinit>() - -Dio.netty.buffer.bytebuf.checkAccessible: true
+2017-10-26 10:33:25 DEBUG [ResourceLeakDetectorFactory.java:140] io.netty.util.ResourceLeakDetectorFactory.newResourceLeakDetector() - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@19e0e7aa
+2017-10-26 10:33:25 DEBUG [Recycler.java:96] io.netty.util.Recycler.<clinit>() - -Dio.netty.recycler.maxCapacityPerThread: 32768
+2017-10-26 10:33:25 DEBUG [Recycler.java:97] io.netty.util.Recycler.<clinit>() - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2017-10-26 10:33:25 DEBUG [Recycler.java:98] io.netty.util.Recycler.<clinit>() - -Dio.netty.recycler.linkCapacity: 16
+2017-10-26 10:33:25 DEBUG [Recycler.java:99] io.netty.util.Recycler.<clinit>() - -Dio.netty.recycler.ratio: 8
